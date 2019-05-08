@@ -1,5 +1,6 @@
 {
   "name": "test-app",
+  "homepage": "https://gavelino.github.io/test_travis_ci/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
